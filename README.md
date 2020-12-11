@@ -1,5 +1,5 @@
 ### Let's coding folks <br /> 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100px" height="100px">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250px" height="250px">
 
 <!--
 **luisfelipegodoi/luisfelipegodoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

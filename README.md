@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let's coding folks <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 <!--
 **luisfelipegodoi/luisfelipegodoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

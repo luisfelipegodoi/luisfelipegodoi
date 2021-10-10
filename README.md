@@ -1,4 +1,6 @@
-### Hey, I'm Luís Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
+### Hey, I'm Luís Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+<br />
 
 <a href="https://www.linkedin.com/in/luisfelipegodoi/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -9,6 +11,8 @@
 <a href="https://medium.com/@godoiluisfelipe">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
+<br />
 
 Software Engineer based in Brazil.
 I like talking about system architectures and testing new programming languages. I care about code quality, testability and resilience.

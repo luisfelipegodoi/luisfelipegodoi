@@ -15,6 +15,6 @@
 ### About Me 🚀
 Software Engineer based in Brazil. <br/>
 I like talking about system architectures and testing new programming languages. I care about code quality, testability and resilience.
-Other than that, I also like beer and coffee.
+Other than that, I also like beer, rpg games and coffee.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisfelipegodoi)](https://github.com/luisfelipegodoi)
